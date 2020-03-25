@@ -11,3 +11,6 @@ Ubuntu19.10|V1.0.38|V5.11|python upload_ubuntu19.10.py
 
 
 
+然后会得到的类似结果是:
+{'Group name': b'group1', 'Remote file_id': b'group1/M00/00/00/rBEaJV57XdyAUHbzAAYSaMf7HAU606.jpg', 'Status': 'Upload successed.', 'Local file name': '1.jpg', 'Uploaded size': '388.60KB', 'Storage IP': b'106.14.24.151'}
+
